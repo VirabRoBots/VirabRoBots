@@ -38,6 +38,7 @@ turtle.down()
 turtle.write("HAPPY DIWALI", font=("Lucida Calligraphy", 55,))
 turtle.hideturtle()
 turtle.exitonclick()
+Print ()
 
 <br/><br/>
 
